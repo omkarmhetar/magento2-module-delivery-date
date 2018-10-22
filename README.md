@@ -15,4 +15,6 @@ The Order Delivery Date Extension gives your customers possibility to choose the
 2. var folder permission should be 777
 3. run following command 'php bin/magento setup:upgrade'
 
+####################################
+
 <a href="https://github.com/sohelrana09/module-delivery-date">Install Using Composer</a>
